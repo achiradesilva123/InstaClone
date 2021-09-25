@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">InstaClone</string>
+    <string name="facebook_app_id">152671243653152</string>
+    <string name="fb_login_protocol_scheme">fb152671243653152</string>
+</resources>
