@@ -12,16 +12,16 @@ export default [
     {
         id :  2,
         content : 'Hi there this is my passion',
-        contentImageUri : 'https://picsum.photos/700',
+        contentImageUri : 'https://firebasestorage.googleapis.com/v0/b/instaclone-8cd9a.appspot.com/o/IMG_20210908_082220.jpg?alt=media&token=e5bdf7df-6df5-461d-8241-3d8657ebe408',
         user : {
             id: 'u002',
             name : 'Ashen',
-            imageUri :  'https://static.toiimg.com/photo/msid-77231202/77231202.jpg?243423'
+            imageUri :  'https://firebasestorage.googleapis.com/v0/b/instaclone-8cd9a.appspot.com/o/IMG_20210908_082220.jpg?alt=media&token=e5bdf7df-6df5-461d-8241-3d8657ebe408'
         },
     }, {
         id :  3,
         content : 'Hi there this is my passion',
-        contentImageUri : 'https://picsum.photos/700',
+        contentImageUri : 'https://firebasestorage.googleapis.com/v0/b/instaclone-8cd9a.appspot.com/o/IMG_20210908_082220.jpg?alt=media&token=e5bdf7df-6df5-461d-8241-3d8657ebe408',
         user : {
             id: 'u003',
             name : 'akila',

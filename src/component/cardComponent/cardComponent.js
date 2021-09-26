@@ -17,7 +17,7 @@ const CardCompo = ( props : cardItems) => {
     return(
         <Card style={[styles.container,{ width:   width}]}>
             <Card.Title title={card.user.name} left={LeftContent}  />
-            <Card.Cover source={{ uri: 'https://picsum.photos/700' }} />
+            <Card.Cover source={{ uri: card.contentImageUri }} />
             <Card.Actions>
                 <View style={{flexDirection :'row',flexWrap: "wrap",}}>
                     <View style={{flexDirection : 'row' , justifyContent : 'space-around',}}>
